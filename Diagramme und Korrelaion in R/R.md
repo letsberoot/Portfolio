@@ -1,5 +1,5 @@
 
-# R
+# Diagramme und Korrelaion in R
 ## Arbeitsumgebung vorbereiten
 
 ### Bibliotheken laden, Projektordner benennen und Daten einlesen
