@@ -110,8 +110,8 @@ lm(Ganoven$Alter ~ Ganoven$Diebstähle)
 ##       (Intercept)  Ganoven$Diebstähle 
 ##           29.4198              0.2501  
 ```
+#### Berechnung des Korrelationskoeffizienten
 ```
-# Berechnung des Korrelationskoeffizienten
 cor(Ganoven$Alter, Ganoven$Diebstähle, use="pairwise.complete.obs")
 ```
 ```
